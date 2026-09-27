@@ -1,0 +1,9 @@
+Urbn-Frontend/node_modules/
+Urbn-Frontend/dist/
+Urbn-Frontend/.env
+
+Urbn-Backend/target/
+Urbn-Backend/.env
+
+.vscode/
+.idea/
